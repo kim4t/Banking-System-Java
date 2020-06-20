@@ -26,3 +26,10 @@ User can open and close several kinds of account, deposit and withdraw.
 	5. Add new account
 
 5. If Cancle button is pressed, it brings you to first page.
+
+
+![p1](https://user-images.githubusercontent.com/56941469/85201040-3759ee80-b2ca-11ea-86d3-00ed6e157e38.png)
+![p2](https://user-images.githubusercontent.com/56941469/85201041-37f28500-b2ca-11ea-8667-ac374e9e2813.png)
+![p3](https://user-images.githubusercontent.com/56941469/85201042-3923b200-b2ca-11ea-86f8-c40267c92a7e.png)
+![p4](https://user-images.githubusercontent.com/56941469/85201044-39bc4880-b2ca-11ea-8610-65bb2e3ba695.png)
+
